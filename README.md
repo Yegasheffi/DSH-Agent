@@ -9,10 +9,6 @@
 
 > 适用：Android 8.0 及以上任意品牌手机。安装包自签名，需要允许「安装未知来源应用」。
 
-| 对话与工具 | 写操作确认 | 会话列表 | 设置 |
-| --- | --- | --- | --- |
-| ![对话](docs/03-tools.png) | ![确认](docs/02-approval.png) | ![会话](docs/04-sessions.png) | ![设置](docs/05-settings.png) |
-
 ---
 
 ## 一、它能干什么
@@ -241,13 +237,9 @@ DSH-Agent/
 
 ## 十一、教学视频
 
-`video/` 里有从「申请 API Key」到「各功能演示」的完整上手视频（横屏 1920×1080，2 分 48 秒）：
+https://www.bilibili.com/video/BV1Yasf6XEk3里有从「申请 API Key」到「各功能演示」的完整上手视频（横屏 1920×1080，2 分 48 秒）：
 
-- 成片：`video/out/DSH-Agent-教学视频-横屏-配乐版.mp4`
-- 可编辑工程：`video/jianying_draft/DSH Agent 教学视频 横屏 配乐版/`
-- 素材与文案：`video/scenes/`、`video/out/subtitles.srt`、`video/scenes.py`
 
-详见 [video/README.md](video/README.md)。
 
 ---
 
